@@ -18,9 +18,10 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-6 col-12">
                         <div class="hero-content-wrap text-white">
-                            <h1 class="text-white">HostLar Best Hosting Provider in World</h1>
+                            <h1 class="text-white">Nexo Server Best Hosting Provider in World</h1>
                             <p class="lead">If your WordPress website is your personal business, we
-                                want you to succeed. We made our Hostlar hosting & domain service provider platform.</p>
+                                want you to succeed. We made our Nexo Server hosting & domain service provider platform.
+                            </p>
                             <form action="domain-search-result.php" class="domain-search-form mt-3">
                                 <div class="input-group">
                                     <input type="text" name="domain" id="domain" class="form-control"
@@ -56,14 +57,14 @@
                     </div>
                     <div class="col-lg-5 col-12">
                         <div class="animation-image-wrap">
-                            <img src="assets/img/servers.svg" alt="wp hosting" class="img-fluid" />
-                            <img src="assets/img/animated-icon-1.png" alt="wp hosting"
+                            <img src="{{ url('assets/img/servers.svg') }}" alt="wp hosting" class="img-fluid" />
+                            <img src="{{ url('assets/img/animated-icon-1.png') }}" alt="wp hosting"
                                 class="animation-icon-img animation-icon-1" />
-                            <img src="assets/img/animated-icon-2.png" alt="wp hosting"
+                            <img src="{{ url('assets/img/animated-icon-2.png') }}" alt="wp hosting"
                                 class="animation-icon-img animation-icon-2" />
-                            <img src="assets/img/animated-icon-3.png" alt="wp hosting"
+                            <img src="{{ url('assets/img/animated-icon-3.png') }}" alt="wp hosting"
                                 class="animation-icon-img animation-icon-3" />
-                            <img src="assets/img/animated-icon-4.png" alt="wp hosting"
+                            <img src="{{ url('assets/img/animated-icon-4.png') }}" alt="wp hosting"
                                 class="animation-icon-img animation-icon-4" />
                         </div>
                     </div>
@@ -79,8 +80,9 @@
                 <div class="row justify-content-center">
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading text-center mb-md-0 mb-lg-5">
-                            <h2>HostLar Helps You Succeed</h2>
-                            <p class="lead">Grow your website faster by using hostlar as your foundation. Dynamically
+                            <h2>Nexo Server Helps You Succeed</h2>
+                            <p class="lead">Grow your website faster by using Nexo Server as your foundation.
+                                Dynamically
                                 streamline principle-centered technologies.</p>
                         </div>
                     </div>
@@ -259,7 +261,8 @@
                                 experts anytime.</p>
                             <p>Sales Chat: <strong> MON-FRI 8AM-4PM PT</strong> | Customer Support Chat: Every Day
                                 <strong>
-                                    5:30AM–9:30PM PT</strong></p>
+                                    5:30AM–9:30PM PT</strong>
+                            </p>
                             <div class="action-btns">
                                 <a href="#" class="btn solid-white-btn mr-3">Chat With Us</a>
                                 <a href="#" class="btn outline-white-btn">Send us an Email</a>
