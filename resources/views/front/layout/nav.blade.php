@@ -50,70 +50,10 @@
                 <div id="navBar" class="collapse navbar-collapse">
                     <ul class="navbar-nav ml-auto main-navbar-nav">
                         <!--home start-->
-                        <li class="nav-item hs-has-mega-menu custom-nav-item" data-position="left">
-                            <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="javascript:void(0);" aria-haspopup="true" aria-expanded="false">Home</a>
+                        <li class="nav-item custom-nav-item" data-position="left">
+                            <a class="nav-link custom-nav-link" href="{{url('/')}}" >Home</a>
 
-                            <!--home mega menu start-->
-                            <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="homeMegaMenu">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-5">
-                                        <!-- Banner Image -->
-                                        <div class="menu-banner-wrap d-none d-md-none d-lg-block gray-light-bg">
-                                            <div class="menu-banner-content">
-                                                <div class="mb-4">
-                                                    <h5 class="mb-3 h6">Unbeatable WordPress Hosting</h5>
-                                                    <ul class="list-unstyled tech-feature-list">
-                                                        <li class="py-1"><span class="ti-control-forward mr-2"></span>Flexible, Easy to Use Control Panel</li>
-                                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>Unmetered</strong> Bandwidth</li>
-                                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>Unmetered</strong> Sub Domains, FTP Accounts</li>
-                                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>99%</strong> Uptime Guarantee</li>
-                                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>45-Day</strong> Money-Back Guarantee</li>
-                                                    </ul>
-                                                </div>
-                                                <a class="btn primary-solid-btn" href="#">Learn More <span
-                                                        class="fas fa-angle-right ml-2"></span></a>
-                                            </div>
-                                        </div>
-                                        <!-- End Banner Image -->
-                                    </div>
-
-                                    <div class="col-lg-7">
-                                        <div class="row mega-menu-wrap">
-                                            <div class="col-sm-6 mb-3 mb-sm-0">
-                                                <span class="sub-menu-title">Home Demos</span>
-                                                <ul class="sub-menu-nav-group">
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index.html">Home Default</a></li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-image.html">Home Image</a></li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-domain-search.html">Home Domain Search <span class="badge badge-danger ml-2">Hot</span></a></li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-domain-search-2.html">Home Domain Search Two</a>
-                                                    </li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-bg-image.html">Home Background Image</a>
-                                                    </li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-bg-video.html">Home Background Video</a></li>
-
-                                                </ul>
-                                            </div>
-
-                                            <div class="col-md-6">
-                                                <ul class="sub-menu-nav-group mb-3">
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-offer.html">Home Offer</a></li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-slider.html">Home Slider</a>
-                                                    </li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-content-slider.html">Home Content Slider</a></li>
-                                                    <li><a class="nav-link sub-menu-nav-link" href="index-reseller-hosting.html">Reseller Demo <span class="badge badge-success ml-2">New</span></a></li>
-                                                </ul>
-
-                                                <span class="sub-menu-title">RTL Demo</span>
-                                                <ul class="sub-menu-nav-group mb-3">
-                                                    <li><a class="nav-link sub-menu-nav-link" href="http://hostlar.themetags.com/template-rtl/index.html">Home Default Arabic <span class="badge badge-danger ml-2">RTL</span></a></li>
-                                                </ul>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--home mega menu end-->
+                
                         </li>
                         <!--home end-->
 
