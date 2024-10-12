@@ -3,10 +3,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- SEO Meta description -->
-    <meta name="description" content="Hostlar hosting template designed for all web hosting, business, multi purpose, domain sale websites, online business, personal hosting company and similar sites and many more.">
-    <meta name="author" content="ThemeTags">
+    <meta name="description" content="Unlock your online potential with Nexo Server, your trusted hosting and domain provider. Enjoy lightning-fast hosting, robust security, and personalized support to ensure your website thrives. Get started today!">
+    <meta name="author" content="Mero Vision">
 
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="" /> <!-- website name -->
     <meta property="og:site" content="" /> <!-- website link -->
     <meta property="og:title" content="" /> <!-- title shown in the actual shared post -->
@@ -23,8 +22,5 @@
 
     <!--title-->
     <title>Nexo Server</title>
-
-    <!--build:css-->
     <link rel="stylesheet" href="assets/css/main.css">
-    <!-- endbuild -->
-    <link rel="stylesheet" href="assets/css/custom.css">
+    {{-- <link rel="stylesheet" href="assets/css/custom.css"> --}}
