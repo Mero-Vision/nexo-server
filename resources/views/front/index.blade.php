@@ -22,10 +22,14 @@
                             <p class="lead">If your WordPress website is your personal business, we
                                 want you to succeed. We made our Nexo Server hosting & domain service provider platform.
                             </p>
-                            <form action="domain-search-result.php" class="domain-search-form mt-3">
+                            <form action="https://clients.nexoserver.com/cart.php" class="domain-search-form mt-3">
                                 <div class="input-group">
-                                    <input type="text" name="domain" id="domain" class="form-control"
+                                    <input type="text" name="query" id="domain" class="form-control"
                                         placeholder="example.com" />
+                                        <input type="hidden" name="a" class="form-control"
+                                        value="add" />
+                                        <input type="hidden" name="domain" class="form-control"
+                                        value="register" />
                                     <div class="input-group-append">
                                         <button class="btn search-btn btn-hover d-flex align-items-center"
                                             type="submit">
