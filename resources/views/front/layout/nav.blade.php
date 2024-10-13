@@ -39,8 +39,8 @@
              <nav class="js-mega-menu navbar navbar-expand-md header-nav">
 
                  <!--logo start-->
-                 <a class="navbar-brand" href="{{url('/')}}"><img src="{{ url('assets/img/logo.png') }}" width="120"
-                         alt="logo" class="img-fluid" /></a>
+                 <a class="navbar-brand" href="{{ url('/') }}"><img src="{{ url('assets/img/logo.png') }}"
+                         width="120" alt="logo" class="img-fluid" /></a>
                  <!--logo end-->
 
                  <!--responsive toggle button start-->
@@ -63,7 +63,7 @@
                          </li>
                          <!--home end-->
 
-                        
+
 
 
                          <!--hosting start-->
@@ -207,7 +207,7 @@
                          </li>
                          <!--hosting end-->
 
-                         
+
 
                          <!--support start-->
                          <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="360px"
@@ -220,7 +220,7 @@
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="submit-request.html">
+                                     <a class="title-with-icon-link" href="https://clients.nexoserver.com/contact.php">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/chat.svg" alt="SVG">
                                              <div class="media-body">
@@ -282,7 +282,7 @@
                                          <div class="col-6">
                                              <div class="u-header__promo-footer-item">
                                                  <small class="text-muted d-block">Check what's new</small>
-                                                 <a class="small" href="#">
+                                                 <a class="small" href="https://clients.nexoserver.com/knowledgebase">
                                                      Changelog
                                                  </a>
                                              </div>
@@ -290,7 +290,7 @@
                                          <div class="col-6 u-header__promo-footer-ver-divider">
                                              <div class="u-header__promo-footer-item">
                                                  <small class="text-muted d-block">Have a question?</small>
-                                                 <a class="small" href="contact-us.html">
+                                                 <a class="small" href="https://clients.nexoserver.com/contact.php">
                                                      Contact us
                                                  </a>
                                              </div>
@@ -314,25 +314,11 @@
                              <div class="hs-mega-menu main-sub-menu" aria-labelledby="aboutMegaMenu"
                                  style="min-width: 330px;">
 
-                                 <!--menu title with subtitle and icon item start-->
-                                 <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="contact-us.html">
-                                         <div class="media align-items-center">
-                                             <img class="menu-titile-icon" src="assets/img/chat-mobile.svg"
-                                                 alt="SVG">
-                                             <div class="media-body">
-                                                 <span class="u-header__promo-title">Contact Us</span>
-                                                 <small class="u-header__promo-text">Face any problem contact with us
-                                                 </small>
-                                             </div>
-                                         </div>
-                                     </a>
-                                 </div>
-                                 <!--menu title with subtitle and icon item end-->
+
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="{{url('about-us')}}">
+                                     <a class="title-with-icon-link" href="{{ url('about-us') }}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/community.svg"
                                                  alt="SVG">
@@ -346,9 +332,24 @@
                                  </div>
                                  <!--menu title with subtitle and icon item end-->
 
-                                
 
-                                
+                                 <!--menu title with subtitle and icon item start-->
+                                 <div class="title-with-icon-item">
+                                     <a class="title-with-icon-link"
+                                         href="https://clients.nexoserver.com/contact.php">
+                                         <div class="media align-items-center">
+                                             <img class="menu-titile-icon" src="assets/img/chat-mobile.svg"
+                                                 alt="SVG">
+                                             <div class="media-body">
+                                                 <span class="u-header__promo-title">Contact Us</span>
+                                                 <small class="u-header__promo-text">Face any problem contact with us
+                                                 </small>
+                                             </div>
+                                         </div>
+                                     </a>
+                                 </div>
+                                 <!--menu title with subtitle and icon item end-->
+
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
