@@ -235,7 +235,7 @@
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="support.html">
+                                     <a class="title-with-icon-link" href="{{url('support')}}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/support.svg"
                                                  alt="SVG">
