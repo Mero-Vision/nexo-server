@@ -249,7 +249,7 @@
                                  <!--menu title with subtitle and icon item end-->
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="network.html">
+                                     <a class="title-with-icon-link" href="{{url('network')}}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/data-services.svg"
                                                  alt="SVG">
@@ -261,19 +261,7 @@
                                      </a>
                                  </div>
                                  <!--menu title with subtitle and icon item end-->
-                                 <!--menu title with subtitle and icon item start-->
-                                 <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="status.html">
-                                         <div class="media align-items-center">
-                                             <img class="menu-titile-icon" src="assets/img/time.svg" alt="SVG">
-                                             <div class="media-body">
-                                                 <span class="u-header__promo-title">Uptime Commitment</span>
-                                                 <small class="u-header__promo-text">Monitoring and secure</small>
-                                             </div>
-                                         </div>
-                                     </a>
-                                 </div>
-                                 <!--menu title with subtitle and icon item end-->
+                                
 
                                  <!--submenu footer start-->
                                  <div class="u-header__promo-footer">
