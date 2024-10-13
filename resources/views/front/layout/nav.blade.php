@@ -9,7 +9,7 @@
                          <ul class="list-inline">
                              <li class="list-inline-item">
                                  <a href="tell:9825915122"><span class="fas fa-phone mr-2"></span> 24x7 Technical
-                                     Support 9825915122</a>
+                                     Support: 9825915122</a>
                              </li>
                              <li class="list-inline-item"><a href="#"><span class="fas fa-comments mr-2"></span>
                                      Live
@@ -63,136 +63,7 @@
                          </li>
                          <!--home end-->
 
-                         <!--pages start-->
-                         <li class="nav-item hs-has-sub-menu custom-nav-item">
-                             <a id="pagesMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                 href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                 aria-labelledby="pagesSubMenu">Pages</a>
-
-                             <!-- Pages - Submenu -->
-                             <ul id="pagesSubMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="pagesMegaMenu"
-                                 style="min-width: 260px;">
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="about-us.html">About Us</a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="services.html">Our Services</a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="reviews.html">Client Reviews</a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="domain-search-result.html">Search
-                                         Result</a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="image-gallery.html">Image Gallery</a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="black-friday-sale-page.html">Black
-                                         Friday Sale <span class="badge badge-warning ml-auto">New</span></a>
-                                 </li>
-                                 <li class="nav-item submenu-item">
-                                     <a class="nav-link sub-menu-nav-link" href="offer-single-page.html">Black Friday
-                                         Single <span class="badge badge-warning ml-auto">New</span></a>
-                                 </li>
-                                 <li class="hs-has-sub-menu">
-                                     <a id="navLinkPagesPricing" class="nav-link sub-menu-nav-link sub-link-toggle"
-                                         href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                         aria-controls="navSubmenuPagesPricing">Pricing</a>
-
-                                     <ul id="navSubmenuPagesPricing" class="hs-sub-menu main-sub-menu"
-                                         aria-labelledby="navLinkPagesPricing" style="min-width: 230px;">
-                                         <li><a class="nav-link sub-menu-nav-link" href="pricing-default.html">Pricing
-                                                 Default</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="pricing-package.html">Pricing
-                                                 Packages</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link"
-                                                 href="pricing-comparision.html">Pricing Comparison</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="vps-pricing.html">VPS
-                                                 Pricing</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="pricing-new.html">New Pricing
-                                                 <span class="badge badge-success ml-2">New</span></a></li>
-                                     </ul>
-                                 </li>
-                                 <li class="hs-has-sub-menu">
-                                     <a id="navLinkPagesBlog" class="nav-link sub-menu-nav-link sub-link-toggle"
-                                         href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                         aria-controls="navSubmenuPagesBlog">Blog</a>
-
-                                     <ul id="navSubmenuPagesBlog" class="hs-sub-menu main-sub-menu"
-                                         aria-labelledby="navLinkPagesBlog" style="min-width: 230px;">
-                                         <li><a class="nav-link sub-menu-nav-link" href="blog-grid.html">Blog Grid</a>
-                                         </li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="blog-sidebar.html">Blog With
-                                                 Sidebar</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="blog-details.html">Blog
-                                                 Details</a></li>
-                                     </ul>
-                                 </li>
-
-                                 <li class="hs-has-sub-menu">
-                                     <a id="navLinkPagesLogin" class="nav-link sub-menu-nav-link sub-link-toggle"
-                                         href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                         aria-controls="navSubmenuPagesLogin">Login &amp; Signup</a>
-
-                                     <ul id="navSubmenuPagesLogin" class="hs-sub-menu main-sub-menu"
-                                         aria-labelledby="navLinkPagesLogin" style="min-width: 230px;">
-                                         <li><a class="nav-link sub-menu-nav-link" href="login.html">Login</a>
-                                         </li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="signup.html">Signup</a>
-                                         </li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="recover-account.html">Recover
-                                                 Account</a></li>
-                                         <li class="dropdown-divider"></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="login-simple.html">Login
-                                                 Simple</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="signup-simple.html">Signup
-                                                 Simple</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link"
-                                                 href="recover-account-simple.html">Recover Account Simple</a>
-                                         </li>
-                                     </ul>
-                                 </li>
-                                 <li class="hs-has-sub-menu">
-                                     <a id="navLinkPagesUtilities" class="nav-link sub-menu-nav-link sub-link-toggle"
-                                         href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                         aria-controls="navSubmenuPagesUtilities">Utilities</a>
-
-                                     <ul id="navSubmenuPagesUtilities" class="hs-sub-menu main-sub-menu"
-                                         aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
-                                         <li><a class="nav-link sub-menu-nav-link" href="help.html">Help</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="faq.html">FAQ</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="status.html">Status</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link"
-                                                 href="knowledge-base.html">Knowledge Base</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="terms-condition.html">Terms
-                                                 &amp; Conditions</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="privacy-policy.html">Privacy
-                                                 &amp; Policy</a></li>
-                                     </ul>
-                                 </li>
-                                 <li class="hs-has-sub-menu">
-                                     <a id="navLinkPagesSpecialty" class="nav-link sub-menu-nav-link sub-link-toggle"
-                                         href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
-                                         aria-controls="navSubmenuPagesSpecialty">Specialty</a>
-
-                                     <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu main-sub-menu"
-                                         aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
-                                         <li><a class="nav-link sub-menu-nav-link" href="cover-page.html">Cover
-                                                 Page</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="coming-soon.html">Coming
-                                                 Soon</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link"
-                                                 href="maintenance-mode.html">Maintenance Mode</a></li>
-                                         <li><a class="nav-link sub-menu-nav-link" href="404.html">Error 404</a></li>
-                                     </ul>
-                                 </li>
-                                 <!-- Specialty -->
-                             </ul>
-                             <!-- End Pages - Submenu -->
-                         </li>
-                         <!--pages end-->
+                        
 
 
                          <!--hosting start-->
@@ -336,73 +207,7 @@
                          </li>
                          <!--hosting end-->
 
-                         <!--elements start-->
-                         <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="600px"
-                             data-position="right">
-                             <a id="elementsMegaMenu" class="nav-link custom-nav-link main-link-toggle"
-                                 href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Elements</a>
-                             <!--services mega menu start-->
-                             <div class="hs-mega-menu main-sub-menu u-header__mega-menu-position-right-fix--md"
-                                 aria-labelledby="elementsMegaMenu">
-                                 <div class="mega-menu-wrap">
-                                     <span class="sub-menu-title">Individual Elements and Blocks</span>
-                                     <div class="row">
-                                         <div class="col-sm-4">
-                                             <ul class="sub-menu-nav-group">
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="accordions.html">Accordions</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="breadcrumbs.html">Breadcrumbs</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="buttons.html">Buttons</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="clients.html">Clients</a></li>
-                                             </ul>
-                                         </div>
-                                         <div class="col-sm-4">
-                                             <ul class="sub-menu-nav-group">
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="carousel.html">Carousel</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="call-to-action.html">Call to Action</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="testimonials.html">Testimonials</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="typography.html">Typography</a></li>
-                                             </ul>
-                                         </div>
-                                         <div class="col-sm-4">
-                                             <ul class="sub-menu-nav-group">
-                                                 <li><a class="nav-link sub-menu-nav-link" href="team.html">Team</a>
-                                                 </li>
-                                                 <li><a class="nav-link sub-menu-nav-link" href="tabs.html">Tab</a>
-                                                 </li>
-                                                 <li><a class="nav-link sub-menu-nav-link"
-                                                         href="videos.html">Videos</a></li>
-                                                 <li><a class="nav-link sub-menu-nav-link" href="forms.html">Form</a>
-                                                 </li>
-                                             </ul>
-                                         </div>
-                                     </div>
-                                 </div>
-
-                                 <!-- Mega Menu Banner -->
-                                 <div class="secondary-bg">
-                                     <div
-                                         class="u-header__product-banner-content position-relative z-index text-center text-white">
-                                         <div class="mb-4">
-                                             <h5 class="text-white">Get 25% Discount Start Now</h5>
-                                             <div class="clock menu-countdown my-4 text-white"></div>
-                                         </div>
-                                         <a class="btn solid-white-btn" href="#">Get Started<span
-                                                 class="ti-arrow-right pl-2"></span></a>
-                                     </div>
-                                 </div>
-                                 <!-- End Mega Menu Banner -->
-                             </div>
-                             <!--services mega menu end-->
-                         </li>
-                         <!--elements end-->
+                         
 
                          <!--support start-->
                          <li class="nav-item hs-has-mega-menu custom-nav-item" data-max-width="360px"
@@ -527,7 +332,7 @@
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="about-us.html">
+                                     <a class="title-with-icon-link" href="{{url('about-us')}}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/community.svg"
                                                  alt="SVG">
@@ -541,37 +346,9 @@
                                  </div>
                                  <!--menu title with subtitle and icon item end-->
 
-                                 <!--menu title with subtitle and icon item start-->
-                                 <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="reviews.html">
-                                         <div class="media align-items-center">
-                                             <img class="menu-titile-icon" src="assets/img/user-behaver.svg"
-                                                 alt="SVG">
-                                             <div class="media-body">
-                                                 <span class="u-header__promo-title">Client Testimonial</span>
-                                                 <small class="u-header__promo-text">More than 100k lovly customer
-                                                 </small>
-                                             </div>
-                                         </div>
-                                     </a>
-                                 </div>
-                                 <!--menu title with subtitle and icon item end-->
+                                
 
-                                 <!--menu title with subtitle and icon item start-->
-                                 <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="partners.html">
-                                         <div class="media align-items-center">
-                                             <img class="menu-titile-icon" src="assets/img/partner.svg"
-                                                 alt="SVG">
-                                             <div class="media-body">
-                                                 <span class="u-header__promo-title">Our Partner</span>
-                                                 <small class="u-header__promo-text">We have trusted partners globally
-                                                 </small>
-                                             </div>
-                                         </div>
-                                     </a>
-                                 </div>
-                                 <!--menu title with subtitle and icon item end-->
+                                
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
