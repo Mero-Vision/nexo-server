@@ -365,8 +365,8 @@
 
                          <!--button start-->
                          <li class="nav-item header-nav-last-item d-flex align-items-center">
-                             <a class="btn primary-solid-btn animated-btn" href="#" target="_blank">
-                                 Get Started
+                             <a class="btn primary-solid-btn animated-btn" href="https://clients.nexoserver.com/clientarea.php" target="_blank">
+                                 Client Area
                              </a>
                          </li>
                          <!--button end-->
