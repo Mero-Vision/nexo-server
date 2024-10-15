@@ -19,7 +19,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-12 col-lg-8">
                         <div class="hero-content-wrap text-white text-center position-relative z-index">
-                            <h1 class="text-white">Find Your Best Domain Name and Create Your Website</h1>
+                            <h1 class="text-white">Use Domain Checker to Find Unique Domains!</h1>
                             <p class="lead">Up to 50% Off domain and hosting, Starting from $2.99/month, free SSL
                                 certificate, 24/7/365 support, money back guarantee.</p>
                             <div class="domain-search-wrap">
@@ -38,6 +38,17 @@
                                         </div>
                                     </div>
                                 </form>
+
+                                <div class="domain-list-wrap mt-4">
+                                    <ul class="list-inline domain-search-list text-white">
+                                        <li class="list-inline-item"><a href="#"><img src="assets/img/com-w.png" alt="com" width="70" class="img-fluid"> <span>$8.99</span></a></li>
+                                        <li class="list-inline-item"><a href="#"><img src="assets/img/net-w.png" alt="com" width="70" class="img-fluid"> <span>$4.99</span></a></li>
+                                        <li class="list-inline-item"><a href="#"><img src="assets/img/org-w.png" alt="com" width="70" class="img-fluid"> <span>$2.99</span></a></li>
+                                        <li class="list-inline-item"><a href="#"><img src="assets/img/store-w.png" alt="com" width="70" class="img-fluid"> <span>$0.99</span></a></li>
+                                        <li class="list-inline-item"><a href="#"><img src="assets/img/online-w.png" alt="com" width="70" class="img-fluid"> <span>$0.99</span></a></li>
+                                    </ul>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -953,145 +964,7 @@
         <!--compare provider table end-->
 
         <!--testimonial and review section start-->
-        <section class="client-review-section ptb-100 gray-light-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>What Our Customers Say About Us?</h2>
-                            <p class="lead">Authoritatively reinvent client-centric fully tested process
-                                improvements. Objectively restore strategic initiatives through fully researched.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 col-lg-12">
-                        <div class="owl-carousel owl-theme client-testimonial custom-dot dot-bottom-center">
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Awesome Support !</h5>
-                                        <p>Objectively magnetic manufactured products and dynamic models. Progressively
-                                            maximize 2.0 relationships imperatives through whereas process-centric.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Alex Khamer</h6>
-                                        <small class="text-right">6 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Pleasant support experience</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic models.
-                                            Progressively maximize 2.0 relationships methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Peter Anderson</h6>
-                                        <small class="text-right">3 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Contacted support after Midnight</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic maximize
-                                            2.0 relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Jolio Darix</h6>
-                                        <small class="text-right">8 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Great experience with the technical</h5>
-                                        <p>Objectively manufactured products and dynamic models maximize 2.0
-                                            relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Carolyn Dani</h6>
-                                        <small class="text-right">6 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>Reliable web hosting company</h5>
-                                        <p>Objectively magnetic manufactured products and dynamic models. Progressively
-                                            maximize 2.0 relationships whereas.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Alex Dari</h6>
-                                        <small class="text-right">4 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                                    <ul class="list-inline ratting-list mb-2">
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                        <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                    </ul>
-                                    <div class="ratting-content">
-                                        <h5>People and services that care</h5>
-                                        <p>Objectively envisioneer magnetic manufactured products and dynamic models
-                                            maximize 2.0 relationships whereas process-centric methodologies.</p>
-                                    </div>
-                                    <div class="ratting-author mt-3">
-                                        <h6>Sir Rainbo </h6>
-                                        <small class="text-right">2 days ago</small>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        {{-- @include('front.components.testimonials') --}}
         <!--testimonial and review section end-->
 
     </div>
