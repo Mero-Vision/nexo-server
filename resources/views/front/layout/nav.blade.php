@@ -78,11 +78,11 @@
                                      <div class="col-md-6">
                                          <!--menu title with subtitle and icon item start-->
                                          <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="shared-hosting.html">
+                                             <a class="title-with-icon-link" href="{{ url('web-hosting') }}">
                                                  <div class="media">
                                                      <div class="menu-item-icon"><i class="fas fa-server"></i></div>
                                                      <div class="media-body">
-                                                         <span class="u-header__promo-title">Shared Hosting</span>
+                                                         <span class="u-header__promo-title">Web Hosting</span>
                                                          <small class="u-header__promo-text">Innovate reliable quality
                                                              Starting at <strong>$2.99</strong></small>
                                                      </div>
@@ -90,39 +90,10 @@
                                              </a>
                                          </div>
                                          <!--menu title with subtitle and icon item end-->
+
                                          <!--menu title with subtitle and icon item start-->
                                          <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="vps-hosting.html">
-                                                 <div class="media">
-                                                     <div class="menu-item-icon"><i class="fas fa-box"></i></div>
-                                                     <div class="media-body">
-                                                         <span class="u-header__promo-title">VPS Hosting <span
-                                                                 class="badge badge-success ml-1">Popular</span></span>
-                                                         <small class="u-header__promo-text">Pefficiently maintain
-                                                             Starting at <strong>$11.99</strong></small>
-                                                     </div>
-                                                 </div>
-                                             </a>
-                                         </div>
-                                         <!--menu title with subtitle and icon item end-->
-                                         <!--menu title with subtitle and icon item start-->
-                                         <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="dedicated-server-hosting.html">
-                                                 <div class="media">
-                                                     <div class="menu-item-icon"><i class="fas fa-tachometer-alt"></i>
-                                                     </div>
-                                                     <div class="media-body">
-                                                         <span class="u-header__promo-title">Dedicated Hosting</span>
-                                                         <small class="u-header__promo-text">Quickly build Starting at
-                                                             <strong>$150.99/mo</strong></small>
-                                                     </div>
-                                                 </div>
-                                             </a>
-                                         </div>
-                                         <!--menu title with subtitle and icon item end-->
-                                         <!--menu title with subtitle and icon item start-->
-                                         <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="cloud-hosting.html">
+                                             <a class="title-with-icon-link" href="{{ url('cloud-hosting') }}">
                                                  <div class="media">
                                                      <div class="menu-item-icon"><i class="fas fa-cloud"></i></div>
                                                      <div class="media-body">
@@ -136,31 +107,50 @@
                                              </a>
                                          </div>
                                          <!--menu title with subtitle and icon item end-->
-                                     </div>
 
-                                     <div class="col-md-6">
+
                                          <!--menu title with subtitle and icon item start-->
-                                         <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="email-hosting.html">
+                                         {{-- <div class="title-with-icon-item">
+                                             <a class="title-with-icon-link" href="vps-hosting.html">
                                                  <div class="media">
-                                                     <div class="menu-item-icon"><i class="fas fa-envelope"></i></div>
+                                                     <div class="menu-item-icon"><i class="fas fa-box"></i></div>
                                                      <div class="media-body">
-                                                         <span class="u-header__promo-title">Email Hosting</span>
-                                                         <small class="u-header__promo-text">First Starting at
-                                                             <strong>$0.99/mo
-                                                                 per mailbox</strong></small>
+                                                         <span class="u-header__promo-title">VPS Hosting <span
+                                                                 class="badge badge-success ml-1">Popular</span></span>
+                                                         <small class="u-header__promo-text">Pefficiently maintain
+                                                             Starting at <strong>$11.99</strong></small>
                                                      </div>
                                                  </div>
                                              </a>
-                                         </div>
+                                         </div> --}}
                                          <!--menu title with subtitle and icon item end-->
                                          <!--menu title with subtitle and icon item start-->
+                                         {{-- <div class="title-with-icon-item">
+                                             <a class="title-with-icon-link" href="dedicated-server-hosting.html">
+                                                 <div class="media">
+                                                     <div class="menu-item-icon"><i class="fas fa-tachometer-alt"></i>
+                                                     </div>
+                                                     <div class="media-body">
+                                                         <span class="u-header__promo-title">Dedicated Hosting</span>
+                                                         <small class="u-header__promo-text">Quickly build Starting at
+                                                             <strong>$150.99/mo</strong></small>
+                                                     </div>
+                                                 </div>
+                                             </a>
+                                         </div> --}}
+                                         <!--menu title with subtitle and icon item end-->
+
+                                     </div>
+
+                                     <div class="col-md-6">
+
+                                         <!--menu title with subtitle and icon item start-->
                                          <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="shared-wp-hosting.html">
+                                             <a class="title-with-icon-link" href="{{ url('wordpress-hosting') }}">
                                                  <div class="media">
                                                      <div class="menu-item-icon"><i class="fas fa-database"></i></div>
                                                      <div class="media-body">
-                                                         <span class="u-header__promo-title">Shared Wordpress
+                                                         <span class="u-header__promo-title">Wordpress
                                                              Hosting</span>
                                                          <small class="u-header__promo-text">Conveniently Starting at
                                                              <strong>$9.99/mo</strong></small>
@@ -169,36 +159,8 @@
                                              </a>
                                          </div>
                                          <!--menu title with subtitle and icon item end-->
-                                         <!--menu title with subtitle and icon item start-->
-                                         <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="wp-hosting.html">
-                                                 <div class="media">
-                                                     <div class="menu-item-icon"><i class="fab fa-wordpress"></i>
-                                                     </div>
-                                                     <div class="media-body">
-                                                         <span class="u-header__promo-title">Wordpress Hosting</span>
-                                                         <small class="u-header__promo-text">Conveniently Starting at
-                                                             <strong>$9.99/mo</strong></small>
-                                                     </div>
-                                                 </div>
-                                             </a>
-                                         </div>
-                                         <!--menu title with subtitle and icon item end-->
-                                         <!--menu title with subtitle and icon item start-->
-                                         <div class="title-with-icon-item">
-                                             <a class="title-with-icon-link" href="woocommerce-hosting.html">
-                                                 <div class="media">
-                                                     <div class="menu-item-icon"><i class="fas fa-server"></i></div>
-                                                     <div class="media-body">
-                                                         <span class="u-header__promo-title">WooCommerce Hosting <span
-                                                                 class="badge badge-primary ml-1">New</span></span>
-                                                         <small class="u-header__promo-text">Globally Starting at
-                                                             <strong>$9.99/mo</strong></small>
-                                                     </div>
-                                                 </div>
-                                             </a>
-                                         </div>
-                                         <!--menu title with subtitle and icon item end-->
+
+
                                      </div>
 
                                  </div>
@@ -220,7 +182,8 @@
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="https://clients.nexoserver.com/contact.php">
+                                     <a class="title-with-icon-link"
+                                         href="https://clients.nexoserver.com/contact.php">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/chat.svg" alt="SVG">
                                              <div class="media-body">
@@ -235,7 +198,7 @@
 
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="{{url('support')}}">
+                                     <a class="title-with-icon-link" href="{{ url('support') }}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/support.svg"
                                                  alt="SVG">
@@ -249,7 +212,7 @@
                                  <!--menu title with subtitle and icon item end-->
                                  <!--menu title with subtitle and icon item start-->
                                  <div class="title-with-icon-item">
-                                     <a class="title-with-icon-link" href="{{url('network')}}">
+                                     <a class="title-with-icon-link" href="{{ url('network') }}">
                                          <div class="media align-items-center">
                                              <img class="menu-titile-icon" src="assets/img/data-services.svg"
                                                  alt="SVG">
@@ -261,7 +224,7 @@
                                      </a>
                                  </div>
                                  <!--menu title with subtitle and icon item end-->
-                                
+
 
                                  <!--submenu footer start-->
                                  <div class="u-header__promo-footer">
@@ -270,7 +233,8 @@
                                          <div class="col-6">
                                              <div class="u-header__promo-footer-item">
                                                  <small class="text-muted d-block">Check what's new</small>
-                                                 <a class="small" href="https://clients.nexoserver.com/knowledgebase">
+                                                 <a class="small"
+                                                     href="https://clients.nexoserver.com/knowledgebase">
                                                      Changelog
                                                  </a>
                                              </div>
@@ -365,7 +329,8 @@
 
                          <!--button start-->
                          <li class="nav-item header-nav-last-item d-flex align-items-center">
-                             <a class="btn primary-solid-btn animated-btn" href="https://clients.nexoserver.com/clientarea.php" target="_blank">
+                             <a class="btn primary-solid-btn animated-btn"
+                                 href="https://clients.nexoserver.com/clientarea.php" target="_blank">
                                  Client Area
                              </a>
                          </li>
