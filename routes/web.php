@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AboutUsController;
 use App\Http\Controllers\CloudHostingController;
+use App\Http\Controllers\DomainCheckerController;
 use App\Http\Controllers\NetworkController;
 use App\Http\Controllers\SupportController;
 use App\Http\Controllers\WebHostingController;
@@ -18,3 +19,4 @@ Route::get('network',[NetworkController::class,'index']);
 Route::get('web-hosting',[WebHostingController::class,'index']);
 Route::get('cloud-hosting',[CloudHostingController::class,'index']);
 Route::get('wordpress-hosting',[WordPressHostingController::class,'index']);
+Route::get('domains',[DomainCheckerController::class,'index']);

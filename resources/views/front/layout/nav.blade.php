@@ -72,7 +72,7 @@
                              <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle"
                                  href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">Hosting</a>
 
-                             <!-- Demos - Mega Menu -->
+                             <!--  Mega Menu -->
                              <div class="hs-mega-menu w-100 main-sub-menu" aria-labelledby="hostingMegaMenu">
                                  <div class="row no-gutters">
                                      <div class="col-md-6">
@@ -168,6 +168,23 @@
                              <!-- End Demos - Mega Menu -->
                          </li>
                          <!--hosting end-->
+
+
+
+                         <!--pages start-->
+                         <li class="nav-item hs-has-sub-menu custom-nav-item">
+                            <a id="pagesMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="javascript:void(0);" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Domains</a>
+
+                            <!-- Pages - Submenu -->
+                            <ul id="pagesSubMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="pagesMegaMenu" style="min-width: 260px;">
+                                <li class="nav-item submenu-item">
+                                    <a class="nav-link sub-menu-nav-link" href="{{url('domains')}}">Domain Checker</a>
+                                </li>
+                               
+                            </ul>
+                            <!-- End Pages - Submenu -->
+                        </li>
+                        <!--pages end-->
 
 
 
