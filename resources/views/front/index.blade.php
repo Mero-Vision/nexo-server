@@ -18,9 +18,8 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-6 col-12">
                         <div class="hero-content-wrap text-white">
-                            <h1 class="text-white">Nexo Server Best Hosting Provider in World</h1>
-                            <p class="lead">If your WordPress website is your personal business, we
-                                want you to succeed. We made our Nexo Server hosting & domain service provider platform.
+                            <h1 class="text-white">Fast and Reliable Web Hosting Solutions with Nexo Server</h1>
+                            <p class="lead">Empower Your Online Presence with Affordable Domain and Hosting Services.
                             </p>
                             <form action="https://clients.nexoserver.com/cart.php" class="domain-search-form mt-3">
                                 <div class="input-group">
