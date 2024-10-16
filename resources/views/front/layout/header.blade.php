@@ -5,18 +5,12 @@
 <!-- SEO Meta description -->
 <meta name="description"
     content="Unlock your online potential with Nexo Server, your trusted hosting and domain provider. Enjoy lightning-fast hosting, robust security, and personalized support to ensure your website thrives. Get started today!">
-<meta name="author" content="Mero Vision">
 
-<meta property="og:site_name" content="" /> <!-- website name -->
-<meta property="og:site" content="" /> <!-- website link -->
-<meta property="og:title" content="" /> <!-- title shown in the actual shared post -->
-<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
-<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
-<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
-<meta property="og:type" content="article" />
+
+<x-meta title="Nexo Server: Reliable Hosting & Domain Solutions" description="Discover seamless web hosting and domain registration services with Nexo Server. Offering fast, secure, and scalable solutions tailored to your needs, our 24/7 support and affordable pricing ensure your online presence thrives. Join us today and elevate your website with our cutting-edge technology and free SSL certificates. Perfect for businesses and individuals alike!" image="{{ url('assets/img/logo1.png') }}" />
 
 <!--favicon icon-->
-<link rel="icon" href="{{ url('assets/img/logo.png') }}" type="image/png" sizes="16x16">
+<link rel="icon" href="{{ url('assets/img/logo1.png') }}" type="image/png" sizes="16x16">
 
 <!--google fonts-->
 <link
