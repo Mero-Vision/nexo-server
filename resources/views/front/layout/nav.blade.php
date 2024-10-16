@@ -173,22 +173,84 @@
 
                          <!--pages start-->
                          <li class="nav-item hs-has-sub-menu custom-nav-item">
-                            <a id="pagesMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="javascript:void(0);" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Domains</a>
+                             <a id="pagesMegaMenu" class="nav-link custom-nav-link main-link-toggle"
+                                 href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
+                                 aria-labelledby="pagesSubMenu">Domains</a>
 
-                            <!-- Pages - Submenu -->
-                            <ul id="pagesSubMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="pagesMegaMenu" style="min-width: 260px;">
-                                <li class="nav-item submenu-item">
-                                    <a class="nav-link sub-menu-nav-link" href="{{url('domains')}}">Domain Checker</a>
+                             <!-- Pages - Submenu -->
+                             <ul id="pagesSubMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="pagesMegaMenu"
+                                 style="min-width: 260px;">
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link" href="{{ url('domains') }}">Domain
+                                         Checker</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link" href="{{ url('whois') }}">WHOIS Lookup</a>
+                                 </li>
+
+                             </ul>
+                             <!-- End Pages - Submenu -->
+                         </li>
+                         <!--pages end-->
+
+
+                         <!--pages start-->
+                         <li class="nav-item hs-has-sub-menu custom-nav-item">
+                             <a id="pagesMegaMenu" class="nav-link custom-nav-link main-link-toggle"
+                                 href="javascript:void(0);" aria-haspopup="true" aria-expanded="false"
+                                 aria-labelledby="pagesSubMenu">Digital Solutions</a>
+
+                             <!-- Pages - Submenu -->
+                             <ul id="pagesSubMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="pagesMegaMenu"
+                                 style="min-width: 260px;">
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/ssl-certificates">Buy SSL
+                                         Certificates</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/360monitoring">Buy 360 Site
+                                         Monitoring</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/nordvpn">Buy Nord VPN</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/xovinow">Buy XOVI NOW</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/professional-email">Buy
+                                         Professional Email</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/marketgoo">Buy SEO Tools</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                     <a class="nav-link sub-menu-nav-link"
+                                         href="https://clients.nexoserver.com/store/site-builder">Site Builder</a>
+                                 </li>
+
+                                 <li class="nav-item submenu-item">
+                                    <a class="nav-link sub-menu-nav-link"
+                                        href="https://clients.nexoserver.com/store/sitelock">Buy SiteLock Website Security</a>
                                 </li>
 
-                                <li class="nav-item submenu-item">
-                                    <a class="nav-link sub-menu-nav-link" href="{{url('whois')}}">WHOIS Lookup</a>
-                                </li>
-                               
-                            </ul>
-                            <!-- End Pages - Submenu -->
-                        </li>
-                        <!--pages end-->
+                             </ul>
+                             <!-- End Pages - Submenu -->
+                         </li>
+                         <!--pages end-->
 
 
 
