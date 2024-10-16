@@ -28,6 +28,20 @@
 <link rel="stylesheet" href="assets/css/main.css">
 {{-- <link rel="stylesheet" href="assets/css/custom.css"> --}}
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFFV78BPQY"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-RFFV78BPQY');
+</script>
+
 <script>
     window.chatwootSettings = {
         "position": "right",
