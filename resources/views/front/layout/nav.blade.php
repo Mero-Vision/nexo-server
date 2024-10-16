@@ -40,7 +40,7 @@
 
                  <!--logo start-->
                  <a class="navbar-brand" href="{{ url('/') }}"><img src="{{ url('assets/img/logo.png') }}"
-                         width="120" alt="logo" class="img-fluid" /></a>
+                         width="200" alt="logo" class="img-fluid" /></a>
                  <!--logo end-->
 
                  <!--responsive toggle button start-->
