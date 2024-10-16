@@ -180,6 +180,10 @@
                                 <li class="nav-item submenu-item">
                                     <a class="nav-link sub-menu-nav-link" href="{{url('domains')}}">Domain Checker</a>
                                 </li>
+
+                                <li class="nav-item submenu-item">
+                                    <a class="nav-link sub-menu-nav-link" href="{{url('whois')}}">WHOIS Lookup</a>
+                                </li>
                                
                             </ul>
                             <!-- End Pages - Submenu -->
