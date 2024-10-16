@@ -30,19 +30,19 @@
                                 <h4 class="text-white">PRODUCTS</h4>
                                 <ul class="nav flex-column">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">WordPress Hosting</a>
+                                        <a class="nav-link" href="{{url('web-hosting')}}">Web Hosting</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Shared Hosting</a>
+                                        <a class="nav-link" href="{{url('cloud-hosting')}}">Cloud Hosting</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Virtual Private Servers</a>
+                                        <a class="nav-link" href="#">VPS Servers</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Dedicated Servers</a>
+                                        <a class="nav-link" href="{{url('wordpress-hosting')}}">Wordpress Servers</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Domain Names</a>
+                                        <a class="nav-link" href="{{url('domains')}}">Domain Names</a>
                                     </li>
                                 </ul>
                             </div>
@@ -52,20 +52,12 @@
                                 <h4 class="text-white">COMPANY</h4>
                                 <ul class="nav flex-column">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">About</a>
+                                        <a class="nav-link" href="{{url('about-us')}}">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Affiliates</a>
+                                        <a class="nav-link" href="{{url('network')}}">Datacenter</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Blog</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Careers</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Community</a>
-                                    </li>
+                                    
                                 </ul>
 
                             </div>
@@ -97,19 +89,16 @@
                                 <h4 class="text-white">SUPPORT</h4>
                                 <ul class="nav flex-column">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Contact</a>
+                                        <a class="nav-link" href="https://clients.nexoserver.com/contact.php">Contact</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Knowledge Base</a>
+                                        <a class="nav-link" href="https://clients.nexoserver.com/knowledgebase">Knowledge Base</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Forums</a>
+                                        <a class="nav-link" href="https://clients.nexoserver.com/serverstatus.php">System Status</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">System Status</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Support Team</a>
+                                        <a class="nav-link" href="https://clients.nexoserver.com/submitticket.php">Support Team</a>
                                     </li>
                                 </ul>
                             </div>
