@@ -25,10 +25,8 @@
                                 <div class="input-group">
                                     <input type="text" name="query" id="domain" class="form-control"
                                         placeholder="example.com" />
-                                        <input type="hidden" name="a" class="form-control"
-                                        value="add" />
-                                        <input type="hidden" name="domain" class="form-control"
-                                        value="register" />
+                                    <input type="hidden" name="a" class="form-control" value="add" />
+                                    <input type="hidden" name="domain" class="form-control" value="register" />
                                     <div class="input-group-append">
                                         <button class="btn search-btn btn-hover d-flex align-items-center"
                                             type="submit">
@@ -412,9 +410,9 @@
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading mb-5">
                             <h2>Frequently Asked Queries</h2>
-                            <p>Efficiently productivate reliable paradigms before ubiquitous models. Continually utilize
-                                frictionless expertise whereas tactical relationships. Still have questions? <a
-                                    href="#contact" class="page-scroll">Contact us</a></p>
+                            <p>Discover the answers to common inquiries about our hosting and domain services. Our goal
+                                is to provide you with transparent information, helping you make informed decisions for
+                                your online presence.</p>
                         </div>
                     </div>
                 </div>
@@ -423,70 +421,77 @@
                         <div id="accordion-one" class="accordion accordion-faq">
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseOne">
-                                    <h6 class="mb-0 d-inline-block">What is Web Hosting?
+                                    <h6 class="mb-0 d-inline-block">What types of hosting services does Nexo Server
+                                        offer?
                                     </h6>
                                 </a>
                                 <div id="collapseOne" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table, raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>Nexo Server provides a variety of hosting services, including shared hosting,
+                                            VPS (Virtual Private Server) hosting, dedicated server hosting, and cloud
+                                            hosting solutions. Each plan is designed to cater to different needs,
+                                            whether you're a small business, an online store, or a large enterprise.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseTwo">
-                                    <h6 class="mb-0 d-inline-block">What Are the
-                                        Different Types of Web Hosting Products DreamHost Offers?</h6>
+                                    <h6 class="mb-0 d-inline-block">How do I register a domain with Nexo Server?</h6>
                                 </a>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table,
-                                            raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>To register a domain with Nexo Server, simply visit our website, use the
+                                            domain search tool to check availability, and follow the prompts to complete
+                                            your registration. You can choose from various domain extensions and enjoy
+                                            competitive pricing with additional services like WHOIS privacy protection.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseThree">
-                                    <h6 class="mb-0 d-inline-block">How Do I Buy a Domain
-                                        Name?
+                                    <h6 class="mb-0 d-inline-block">Is there a money-back guarantee with Nexo Server
+                                        hosting plans?
                                     </h6>
                                 </a>
                                 <div id="collapseThree" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table, raw denim aesthetic
-                                            synth nesciunt you probably haven't heard of them accusamus labore
-                                            sustainable
-                                            VHS.
+                                        <p>Yes, Nexo Server offers a 30-day money-back guarantee on all our hosting
+                                            plans. If you're not satisfied with our services within the first 30 days,
+                                            you can request a full refund, no questions asked.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card mb-0">
                                 <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
-                                    <h6 class="mb-0 d-inline-block">Can You Help Me
-                                        Understand More About WordPress?
+                                    <h6 class="mb-0 d-inline-block">Do I need technical skills to use Nexo Server's
+                                        hosting services?
                                     </h6>
                                 </a>
                                 <div id="collapseFour" class="collapse" data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                            sapiente ea proident.
-                                            Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                            farm-to-table.
+                                        <p>Not at all! Nexo Server provides user-friendly control panels and one-click
+                                            installations for popular applications, making it easy for anyone to manage
+                                            their hosting account. Additionally, our dedicated support team is available
+                                            24/7 to assist you with any questions or technical issues.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card mb-0">
+                                <a class="card-header collapsed" data-toggle="collapse" href="#collapseFour">
+                                    <h6 class="mb-0 d-inline-block">Can I upgrade my hosting plan later?
+                                    </h6>
+                                </a>
+                                <div id="collapseFour" class="collapse" data-parent="#accordion-one">
+                                    <div class="card-body">
+                                        <p>Yes, you can easily upgrade your hosting plan at any time. Nexo Server offers
+                                            scalable solutions, allowing you to switch to a higher-tier plan as your
+                                            business grows or your hosting needs change. Simply contact our support
+                                            team, and they will assist you with the upgrade process.
                                         </p>
                                     </div>
                                 </div>
@@ -500,83 +505,7 @@
 
         <!--faq section end-->
 
-        <!--testimonial and review section start-->
-        <section class="client-review-section ptb-100 gray-light-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 col-lg-8">
-                        <div class="section-heading text-center mb-5">
-                            <h2>What Our Customers Say About Us?</h2>
-                            <p class="lead">Authoritatively reinvent client-centric e-markets via fully tested
-                                process. Objectively restore strategic initiatives through fully researched.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                            <ul class="list-inline ratting-list mb-2">
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                            </ul>
-                            <div class="ratting-content">
-                                <h5>Awesome support from technical</h5>
-                                <p>Objectively envisioneer magnetic manufactured products and dynamic models.
-                                    Progressively maximize 2.0 relationships whereas process-centric.</p>
-                            </div>
-                            <div class="ratting-author mt-3">
-                                <h6>Alex Khamer</h6>
-                                <small class="text-right">6 days ago</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                            <ul class="list-inline ratting-list mb-2">
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                            </ul>
-                            <div class="ratting-content">
-                                <h5>Awesome Design Quality with Support</h5>
-                                <p>Objectively envisioneer magnetic manufactured products and dynamic models maximize
-                                    2.0 relationships whereas methodologies.</p>
-                            </div>
-                            <div class="ratting-author mt-3">
-                                <h6>Peter Anderson</h6>
-                                <small class="text-right">3 days ago</small>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-testimonial white-bg shadow-sm rounded p-5">
-                            <ul class="list-inline ratting-list mb-2">
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                                <li class="list-inline-item"><span class="fas fa-star"></span></li>
-                            </ul>
-                            <div class="ratting-content">
-                                <h5>Contacted support after Midnight</h5>
-                                <p>Objectively envisioneer magnetic manufactured products and dynamic models.
-                                    Progressively maximize 2.0 relationships whereas process-centric.</p>
-                            </div>
-                            <div class="ratting-author mt-3">
-                                <h6>Jolio Darix</h6>
-                                <small class="text-right">8 days ago</small>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--testimonial and review section end-->
+        @include('front.components.testimonials')
 
 
     </div>

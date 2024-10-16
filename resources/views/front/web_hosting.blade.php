@@ -63,10 +63,7 @@
                         <div class="section-heading text-center mb-5">
                             <h2>Managed Our Hosting Price</h2>
                             <p class="lead">
-                                Professional hosting at an affordable price. Distinctively recaptiualize
-                                principle-centered
-                                core competencies through
-                                core competencies.
+                                At Nexo Server, we offer a variety of managed hosting plans to suit businesses of all sizes. Each plan is designed to provide the best performance, security, and support, ensuring that you get the most value for your investment.
                             </p>
                         </div>
                     </div>
@@ -197,10 +194,9 @@
                 <div class="row justify-content-center">
                     <div class="col-md-9 col-lg-7">
                         <div class="section-heading text-center mb-5">
-                            <h2>Why Choose Hostlar For Reselelr Hosting Business</h2>
+                            <h2>Why Choose Nexo Server For Your Business</h2>
                             <p class="lead">
-                                Distinctively centered core competencies through client-centered
-                                core competencies. Enthusiastically provide access.
+                                At Nexo Server, we are dedicated to providing top-tier hosting and domain solutions tailored to meet your unique needs. Here are a few reasons why you should choose us:
                             </p>
                         </div>
                     </div>

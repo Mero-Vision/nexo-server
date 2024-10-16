@@ -6,8 +6,7 @@
                 <div class="section-heading mb-3 text-center">
                     <h2>Frequently Asked Questions</h2>
                     <p class="lead">
-                        Quickly morph client-centric results through performance based applications. Proactively
-                        facilitate professional human capital for cutting-edge.
+                        Discover the answers to common inquiries about our hosting and domain services. Our goal is to provide you with transparent information, helping you make informed decisions for your online presence.
                     </p>
                 </div>
             </div>
