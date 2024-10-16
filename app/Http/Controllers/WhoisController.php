@@ -67,11 +67,24 @@ class WhoisController extends Controller
         }
     }
 
-    private function extractContact($rawData, $contactType)
-    {
-        // Regular expressions to match contact details
-        $pattern = '/'.$contactType.'\s+Contact:\s+(.*)/i';
-        preg_match($pattern, $rawData, $matches);
-        return $matches[1] ?? 'N/A';
+    protected function extractContact($rawData, $contactType) {
+        // Define a pattern to match the contact information based on the type (Admin, Registrant, Tech)
+        $pattern = "/{$contactType} Name:\s*(.*?)\s*{$contactType} Organization:\s*(.*?)\s*{$contactType} Street:\s*(.*?)\s*{$contactType} City:\s*(.*?)\s*{$contactType} State\/Province:\s*(.*?)\s*{$contactType} Postal Code:\s*(.*?)\s*{$contactType} Country:\s*(.*?)\s*{$contactType} Phone:\s*(.*?)\s*{$contactType} Email:\s*(.*?)\n/mi";
+        
+        if (preg_match($pattern, $rawData, $matches)) {
+            return [
+                'name' => trim($matches[1]),
+                'organization' => trim($matches[2]),
+                'street' => trim($matches[3]),
+                'city' => trim($matches[4]),
+                'state' => trim($matches[5]),
+                'postal_code' => trim($matches[6]),
+                'country' => trim($matches[7]),
+                'phone' => trim($matches[8]),
+                'email' => trim($matches[9])
+            ];
+        }
+        
+        return 'N/A'; // Return 'N/A' if no contact information is found
     }
 }

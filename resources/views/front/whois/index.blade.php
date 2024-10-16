@@ -12,6 +12,8 @@
 
     <div class="main">
 
+       
+
         <!--hero section start-->
         <section class="hero-equal-height ptb-100"
             style="background: url('assets/img/offer-bg-3.png')no-repeat center center / cover">
@@ -24,16 +26,15 @@
                                 competitive pricing on domains and hosting, starting at just $2.99/month. </p>
                             <div class="domain-search-wrap">
                                 <form action="{{ url('check') }}" method="POST"
-                                    class="domain-search-form w-75 d-block mx-auto">
+                                    class="domain-search-form w-75 d-block mx-auto" onsubmit="showLoader()">
                                     @csrf
                                     <div class="input-group">
                                         <input type="text" name="domain" id="domain" class="form-control"
                                             placeholder="example.com" />
 
                                         <div class="input-group-append">
-                                            <button class="btn search-btn btn-hover d-flex align-items-center"
-                                                type="submit">
-                                                <span class="ti-search mr-2"></span> Search
+                                            <button class="btn search-btn btn-hover d-flex align-items-center" type="submit" id="searchBtn">
+                                                <span class="ti-search mr-2"></span> <span id="buttonText">Search</span>
                                             </button>
                                         </div>
                                     </div>
@@ -981,6 +982,42 @@
         <!--testimonial and review section end-->
 
     </div>
+
+    <style>
+        .loader {
+            border: 2px solid transparent;
+            border-top-color: #3498db;
+            border-radius: 50%;
+            width: 16px;
+            height: 16px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+
+<script>
+    function showLoader() {
+        const searchBtn = document.getElementById('searchBtn');
+        const buttonText = document.getElementById('buttonText');
+        
+        buttonText.innerHTML = 'Searching...';
+        searchBtn.disabled = true; 
+        
+        // Create loader element
+        const loader = document.createElement('div');
+        loader.classList.add('loader');
+        loader.style.marginLeft = '8px'; 
+        searchBtn.appendChild(loader);
+    }
+</script>
+
+
+
 
     @include('front.layout.footer')
 </body>

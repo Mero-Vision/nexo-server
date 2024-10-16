@@ -19,12 +19,7 @@
                     <div class="col-md-9 col-lg-8">
                         <div class="section-heading text-center mb-5">
                             <h2>WHOIS Result for {{ $info->domainName }}</h2>
-                            <p class="lead">
-                                Professional hosting at an affordable price. Distinctively recaptiualize
-                                principle-centered
-                                core competencies through
-                                core competencies.
-                            </p>
+                            <p class="lead">Discover essential domain information with our WHOIS Lookup service. Enjoy competitive pricing on domains and hosting, starting at just $2.99/month.</p>
                         </div>
                     </div>
                 </div>
@@ -42,11 +37,9 @@
                                     <p><strong>Expiration Date:</strong>
                                         {{ \Carbon\Carbon::parse($info->expirationDate)->format('F j, Y') }}
                                         ({{ \Carbon\Carbon::parse($info->expirationDate)->diffForHumans() }})</p>
-                                        <p><strong>Updated Date:</strong> {{ $info->updatedDate ? \Carbon\Carbon::createFromTimestamp($info->updatedDate)->format('F j, Y') . ' (' . \Carbon\Carbon::createFromTimestamp($info->updatedDate)->diffForHumans() . ')' : 'N/A' }}</p>
-
-
-
-
+                                    <p><strong>Updated Date:</strong>
+                                        {{ $info->updatedDate ? \Carbon\Carbon::createFromTimestamp($info->updatedDate)->format('F j, Y') . ' (' . \Carbon\Carbon::createFromTimestamp($info->updatedDate)->diffForHumans() . ')' : 'N/A' }}
+                                    </p>
 
 
                                 </div>
@@ -60,7 +53,7 @@
                                 <h4>Contact Information</h4>
                                 <p><strong>Admin Contact:</strong> {{ $adminContact }}</p>
                                 <p><strong>Registrant Contact:</strong> {{ $registrantContact }}</p>
-                                <p><strong>Technical Contact:</strong> {{ $techContact }}</p>
+                                <p><strong>Technical Contact:</strong> {{ $techContact['name'] ?? 'N/A' }}</p>
 
                                 <h4>Other WHOIS Information</h4>
                                 <p><strong>Raw WHOIS Data:</strong></p>
